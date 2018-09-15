@@ -11,7 +11,7 @@ class App extends Component {
           <h1 className="App-title">Todo Application</h1>
         </header>
         <p className="App-intro">
-          <TodoForm/>
+          {/* <TodoForm/> */}
         </p>
       </div>
     );
